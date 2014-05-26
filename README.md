@@ -1,4 +1,4 @@
 RESTactions
 ===========
 
-A lightweight REST framework that allow Web API plug-ins to be deploy through configuration. 
+A lightweight REST framework that support hot deploy and dynamic web API configuration.
